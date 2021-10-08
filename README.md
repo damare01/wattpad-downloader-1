@@ -30,6 +30,9 @@ These are the bare minimum requirements for hosting this.
 
 ## Installing
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 ```bash
 $ git clone https://github.com/divy-work/wattpad-downloader
 $ cd wattpad-downloader
