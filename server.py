@@ -3,6 +3,7 @@ from random import *
 from threading import Thread
 from flask_cors import CORS
 from wattpad2epub import get_book
+from boxnovel import get_book
 import time
 import os
 import platform
